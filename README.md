@@ -138,67 +138,86 @@ A financial management concept designed to help small businesses better understa
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick-kc&theme=tokyo-night&hide_border=true" />
 
 </div>
-🧠 My Developer Philosophy
-                    ┌───────────────┐
-                    │     IDEA      │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    RESEARCH   │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     CODE      │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     TEST      │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     BREAK     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     DEBUG     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     LEARN     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     BUILD     │
-                    └───────────────┘
+## 🧠 My Developer Philosophy
 
-I don't aim to know everything.
-
-I aim to learn fast, build consistently, and solve harder problems over time.
-
-🎯 2026 Goals
- Become stronger in full-stack development
- Build production-ready applications
- Deepen my understanding of AI
- Contribute to open-source projects
- Build and deploy more real-world products
- Improve my software architecture skills
- Participate in more hackathons
- Keep building 🚀
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/cedrick-kc"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/Karangwa Cedrick"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://instagram.com/kar.cedrique"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> </div>
 <div align="center">
-💻 Code. Create. Innovate. Repeat.
-<img src="https://komarev.com/ghpvc/?username=cedrick-kc&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+
+<table>
+<tr>
+<td align="center">💡<br><b>IDEA</b></td>
+<td>→</td>
+<td align="center">🔎<br><b>RESEARCH</b></td>
+<td>→</td>
+<td align="center">💻<br><b>CODE</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>TEST</b></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center">💥<br><b>BREAK</b></td>
+<td>→</td>
+<td align="center">🐛<br><b>DEBUG</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>LEARN</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>BUILD</b></td>
+</tr>
+</table>
+
+</div>
+
+> I don't aim to know everything.  
+> I aim to **learn fast, build consistently, and solve harder problems over time.**
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Become stronger in full-stack development
+- 🏗️ Build production-ready applications
+- 🤖 Deepen my understanding of AI
+- 🌍 Contribute to open-source projects
+- 💡 Build and deploy more real-world products
+- 🧠 Improve my software architecture skills
+- 🏆 Participate in more hackathons
+- 🔥 Keep building
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/cedrick-kc">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="www.linkedin.com/Karangwa Cedrick">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/kar.cedrique">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💻 Code. Create. Innovate. Repeat.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=cedrick-kc&label=Profile%20Views&style=for-the-badge" />
 
 <br><br>
 
-⭐ If you find something interesting here, consider giving it a star!
+⭐ **If you find something interesting here, consider giving it a star!**
 
-</div> 
+</div>
