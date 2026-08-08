@@ -52,13 +52,21 @@ I like exploring new technologies, building applications from scratch, solving t
 
 ⚡ Tech Stack
 💻 Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,python,html,css" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+</p>
 ⚛️ Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,vite,tailwind" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
 🖥️ Backend & Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+ </p>
 🛠️ Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p>
+<p align="left">
+   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
 🚀 What I'm Building
 
 I'm currently focused on building projects that combine software engineering, automation, AI and real-world problem solving.
@@ -106,12 +114,29 @@ A financial management concept designed to help small businesses better understa
 
 Focus: FinTech Business Automation Digital Solutions
 
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cedrick-kc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedrick-kc&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=cedrick-kc&theme=tokyonight&hide_border=true" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick-kc&theme=tokyo-night&hide_border=true" /> </div>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cedrick-kc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedrick-kc&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=cedrick-kc&theme=tokyonight&hide_border=true" />
+
+</div>
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick-kc&theme=tokyo-night&hide_border=true" />
+
+</div>
 🧠 My Developer Philosophy
                     ┌───────────────┐
                     │     IDEA      │
