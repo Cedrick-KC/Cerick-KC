@@ -43,7 +43,8 @@ const cedrique = {
     ],
 
     mindset: "Build → Break → Learn → Improve → Repeat 🚀"
-}; ```
+};
+ ```
 I'm a developer who enjoys turning ideas into real, working products.
 
 I like exploring new technologies, building applications from scratch, solving technical problems, and learning by actually creating things.
