@@ -68,52 +68,52 @@ I like exploring new technologies, building applications from scratch, solving t
 <p align="left">
    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
-🚀 What I'm Building
+## 🚀 What I'm Building
 
-I'm currently focused on building projects that combine software engineering, automation, AI and real-world problem solving.
+I'm currently focused on building projects that combine **software engineering, automation, AI, and real-world problem solving.**
 
-┌──────────────────────────────────────────────┐
-│              CURRENT FOCUS                   │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🌐 Full-Stack Web Applications              │
-│  🤖 Artificial Intelligence                  │
-│  ⚙️ Backend Systems                          │
-│  🗄️ Databases & APIs                        │
-│  🚀 Product Development                     │
-│  🧠 Software Engineering                    │
-│                                              │
-└──────────────────────────────────────────────┘
-🌟 Featured Projects
-🌍 Visit Musanze
+| 🔭 Current Focus | |
+|---|---|
+| 🌐 | Full-Stack Web Applications |
+| 🤖 | Artificial Intelligence |
+| ⚙️ | Backend Systems |
+| 🗄️ | Databases & APIs |
+| 🚀 | Product Development |
+| 🧠 | Software Engineering |
 
-A tourism platform designed to showcase Musanze, Rwanda, including destinations, hotels, food, activities and travel information.
+---
 
-Tech: HTML CSS JavaScript Tailwind CSS
+## 🌟 Featured Projects
 
-💰 INTORE
+### 🌍 Visit Musanze
 
-A digital tax-payment platform concept focused on simplifying tax-related services and calculations.
+A tourism platform designed to showcase **Musanze, Rwanda**, including destinations, hotels, food, activities, and travel information.
 
-Tech: React Node.js Express MongoDB Flutterwave
+**Tech:** `HTML` `CSS` `JavaScript` `Tailwind CSS`
 
-📚 Library Management System
+### 💰 INTORE
 
-A learning project focused on managing books, file handling and CRUD-style operations.
+A digital tax-payment platform focused on simplifying tax-related services and calculations.
 
-Tech: JavaScript Node.js JSON File System
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Flutterwave`
 
-💼 Ally Consult
+### 📚 Library Management System
 
-A modern business and marketing consulting platform designed as a React SPA.
+A learning project focused on managing books, file handling, and CRUD-style operations.
 
-Tech: React React Router CSS Framer Motion
+**Tech:** `Python` `File Handling` `JSON`
 
-💳 Smart Ledger
+### 💼 Ally Consult
+
+A modern business and marketing consulting platform built as a React SPA.
+
+**Tech:** `React` `React Router` `CSS` `Framer Motion`
+
+### 💳 Smart Ledger
 
 A financial management concept designed to help small businesses better understand and manage their finances.
 
-Focus: FinTech Business Automation Digital Solutions
+**Focus:** `FinTech` `Business` `Automation` `Digital Solutions`
 
 ## 📊 GitHub Statistics
 
